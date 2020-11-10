@@ -1,6 +1,6 @@
 # FunctionalProgramming
 
-- Exam assignments made duringm my      functionalProgramming  course at ITU
+- Exam assignments made during my Functional Programming course at ITU
 
 - F# using visual studio community 
 
